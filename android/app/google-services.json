@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "841702851430",
+    "firebase_url": "https://hellogram-ca79a.firebaseio.com",
+    "project_id": "hellogram-ca79a",
+    "storage_bucket": "hellogram-ca79a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841702851430:android:aaf9cda0ddc2f2db0bfea7",
+        "android_client_info": {
+          "package_name": "com.example.hellogram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841702851430-j024b91j91vklcpok32mhri5k732btbv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hellogram",
+            "certificate_hash": "9477922ad0fabe426b97a64bed8eff606f22f3c4"
+          }
+        },
+        {
+          "client_id": "841702851430-g1v8c3fnobg9mdq842gk5fffljn70u18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-cZ6MVSE5j2LhuqU7TykiHzSqrrrm8dE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841702851430-g1v8c3fnobg9mdq842gk5fffljn70u18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
